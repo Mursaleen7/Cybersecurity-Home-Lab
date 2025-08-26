@@ -148,7 +148,3 @@ This lab demonstrates **vulnerability management** by:
 * [Windows Defender Firewall](https://learn.microsoft.com/en-us/windows/security/threat-protection/windows-firewall/)
 
 ---
-
-I can also make a **more visually structured version with badges, diagrams, and color-coded steps** so it looks professional on GitHub if you want.
-
-Do you want me to create that enhanced version?
